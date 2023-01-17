@@ -1,0 +1,15 @@
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/kata.csproj.AssemblyReference.cache
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/kata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/kata.AssemblyInfoInputs.cache
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/kata.AssemblyInfo.cs
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/kata.csproj.CoreCompileInputs.cache
+/Users/puneetkumar/Desktop/kata/bin/Debug/net7.0/kata
+/Users/puneetkumar/Desktop/kata/bin/Debug/net7.0/kata.deps.json
+/Users/puneetkumar/Desktop/kata/bin/Debug/net7.0/kata.runtimeconfig.json
+/Users/puneetkumar/Desktop/kata/bin/Debug/net7.0/kata.dll
+/Users/puneetkumar/Desktop/kata/bin/Debug/net7.0/kata.pdb
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/kata.dll
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/refint/kata.dll
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/kata.pdb
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/kata.genruntimeconfig.cache
+/Users/puneetkumar/Desktop/kata/obj/Debug/net7.0/ref/kata.dll
